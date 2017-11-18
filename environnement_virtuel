@@ -1,0 +1,2 @@
+virtualenv -p /usr/bin/python3 myvenv
+source myvenv/bin/activate
